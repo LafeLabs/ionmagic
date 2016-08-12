@@ -68,6 +68,8 @@
 - audio, video and text communication over long distances both purely analog and piggy backing on the enemy networks(capitalist Internet)
 - data storage, editing and replay of audio, video and text
 - air pump and control
+- universal electrical connectors using triangles
+- universal gas, fluid connectors using triangles
 
 Perhaps product is never the goal, and the systems can be used for *applications*, as needed.  There are many things one might do with a pump, but a pump is still a pump.  Or a motor, or a microscope or a strobe light or a transistor
 
